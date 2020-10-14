@@ -1,0 +1,24 @@
+{
+  "name": "dashdashify",
+  "version": "1.0.0",
+  "description": "make your own version of cornify with one command",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cornify",
+    "dashdashify",
+    "__ify"
+  ],
+  "author": "LunaticHacker",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LunaticHacker/__ify.git"
+  }
+}

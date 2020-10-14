@@ -1,0 +1,18 @@
+#name of your project
+#follow <something><ify> grammer for best results
+name: rainbowify
+#links of images to fill the page
+images:
+  - https://cdn.pixabay.com/photo/2017/05/02/17/16/rainbow-2278774_960_720.png
+  - https://cdn.pixabay.com/photo/2012/04/10/16/54/rainbow-26389_960_720.png
+  - https://cdn.pixabay.com/photo/2014/04/02/17/00/rainbow-307622_960_720.png
+grand_image_on: 15
+font_change_on: 5
+#link for the image that will appear in the center of the screen after 'grand_image_on' clicks
+grand_image_url: https://cdn.pixabay.com/photo/2018/05/09/19/31/cat-3385968_960_720.png
+#url to font for 'font_change_on'
+font: "https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap"
+#full font-family css attribute without semicolon
+font_family: "'Over the Rainbow', cursive"
+#color of the counter
+counter_color: red
