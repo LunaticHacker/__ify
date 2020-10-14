@@ -1,6 +1,6 @@
 {
   "name": "dashdashify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make your own version of cornify with one command",
   "main": "index.js",
   "bin": "index.js",
