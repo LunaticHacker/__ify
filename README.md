@@ -2,7 +2,7 @@
 
 > Make your own version [cornify](https://www.cornify.com/), with one command
 
-<hr>
+
 ## Usage
 
 > First copy config from this [yaml file](example/config.yml) and modify it for your needs<br>
