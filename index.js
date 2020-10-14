@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const { spawn } = require("child_process");
 const yaml = require("js-yaml");
 const fs = require("fs");
